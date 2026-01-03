@@ -1,9 +1,6 @@
-# Hi there, I'm Roshan! 
-
-### AI Engineer | Backend Developer | Problem Solver
+# Hi there Roshan here! 
 
 ---
-
 
 
 <div align="center">
@@ -11,8 +8,6 @@
 </div>
 
 ---
-
-
 
 ###  Connect with Me
 
